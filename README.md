@@ -44,3 +44,10 @@ https://github.com/jimmysong/programmingbitcoin
 https://mises.org/library/book/what-has-government-done-our-money
 
 *A great book for a basic understanding of economics (and why Bitcoin is useful).*
+
+##### Crypto = Internet Points? Why it WON'T make you rich (video)
+https://www.youtube.com/watch?v=Llrs7herILg
+
+*Although it might be an unexpected resource, it's highly valued for offering a different perspective on cryptocurrencies.*
+
+
