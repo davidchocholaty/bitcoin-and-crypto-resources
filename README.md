@@ -48,6 +48,45 @@ https://mises.org/library/book/what-has-government-done-our-money
 ##### Crypto = Internet Points? Why it WON'T make you rich (video)
 https://www.youtube.com/watch?v=Llrs7herILg
 
-*Although it might be an unexpected resource, it's highly valued for offering a different perspective on cryptocurrencies.*
+*Although it might be an unexpected resource, it's valued for offering a different perspective on cryptocurrencies.*
 
+##### River Learn
+https://river.com/learn/
+
+*A good starting point to learn about BTC.*
+
+##### mempool.space
+https://mempool.space/
+
+*Mempool is the fully-featured mempool visualizer, explorer, and API service.*
+
+##### Braiins Insights
+https://insights.braiins.com/en
+
+*Just for the interest.*
+
+##### Bitcoin Forum
+https://bitcointalk.org/
+
+*The original Bitcoin forum.*
+
+##### Proč Bitcoin (Why Bitcoin)
+https://procbitcoin.cz/
+
+*A good starting point for learning about Bitcoin for Czech folks.*
+
+##### BTCPrague (videos)
+https://www.youtube.com/@BTCPrague/videos
+
+*Recordings of talks from the BTCPrague conference.*
+
+##### Bitcoinovej Kanál
+https://www.youtube.com/@BTCKNL
+
+*YouTube videos for Czech viewers.*
+
+##### Stackuj: Bitcoinový Podcast
+https://www.youtube.com/@stackuj
+
+*Podcasts about Bitcoin for Czech listeners.*
 
